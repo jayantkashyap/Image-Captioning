@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+tqdm
+pillow=4.0.0
+nltk
+tensorflow-gpu
+keras
